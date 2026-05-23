@@ -1,0 +1,22 @@
+# Large artifacts
+*.tar
+*.log
+*.zip
+
+# Node
+node_modules/
+npm-debug.log
+
+# Build
+build/
+dist/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
